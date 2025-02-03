@@ -1,5 +1,5 @@
 package main
 
 func SayHello() string {
-	return "Hello"
+	return "Upgrade Module"
 }
